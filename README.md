@@ -16,5 +16,4 @@ Use python3 and numpy implement some machine learning algorithm, such as SVM, li
 Linear regression is a machine learning algorithm, under the assumptions that there is linear relationship between the target
 variable and the predictors, i.e.
 
-<img src="https://latex.codecogs.com/gif.latex?y = X \beta + \epsilon" title="linear regression" /></a>
-
+<img src="https://latex.codecogs.com/gif.latex?y = X \beta + \epsilon" title="y = X \beta + \epsilon" /></a>
